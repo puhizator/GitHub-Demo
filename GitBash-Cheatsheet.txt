@@ -1,0 +1,21 @@
+- How to clone a repo
+git clone url (example- https://github.com/puhizator/GitHub-Demo.git)
+
+- View the status of the repo
+git status
+
+- Add files ready for commiting
+git add. (add all files)
+git add. GitBash-Cheatsheet.txt (add one file)
+
+- Commit msg for the made changes
+git commit -m "" - in the "" write your commit msg - "updated line 3,4,5"
+
+- Push the repo - update the remote repo
+git pushh
+
+- update local repo from remote repo
+git pull
+
+- remove file from changes to commite
+git reset HEAD <file>
